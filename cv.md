@@ -15,20 +15,20 @@ olga.bashlaminova.ob@gmail.com
 I want to find a job that I will give my time, effort and skills to. And in return, get inspiration, satisfaction, and a salary.
 
 ## Skills
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Code examples
-Instagram clone: https://github.com/OBashlaminova/instagram-clone
+- Instagram clone: https://github.com/OBashlaminova/instagram-clone
 
 ## Education
-Gymnasium 1 Grodno 2008-2019
-Yanka Kupala State University of Grodno 2019-2020
-JavaScript Development (RS School) training 03.2021-now
+- Gymnasium 1 Grodno 2008-2019
+- Yanka Kupala State University of Grodno 2019-2020
+- JavaScript Development (RS School) training 03.2021-now
 
 ## Languages:
-English B1-2
-Polish A2
-Russian Native
-Belarussian Native
+- English B1-2
+- Polish A2
+- Russian Native
+- Belarussian Native
