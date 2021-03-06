@@ -20,6 +20,7 @@ CSS
 JavaScript
 
 ## Code examples
+Instagram clone: https://github.com/OBashlaminova/instagram-clone
 
 ## Education
 Gymnasium 1 Grodno 2008-2019
