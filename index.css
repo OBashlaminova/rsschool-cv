@@ -1,0 +1,18 @@
+#root,
+.header,
+.main {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+
+.main img {
+  max-width: 150px;
+  max-height: 180px;
+}
+
+.text {
+  max-width: 780px;
+  text-align: center;
+}
+
